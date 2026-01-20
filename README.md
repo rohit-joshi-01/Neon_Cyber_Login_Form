@@ -175,4 +175,6 @@ Optimized for modern browsers with advanced CSS support for maximum neon impact.
 - **Battery Friendly**: Optimized for gaming laptops and mobile devices
 
 
+
+
 **Author : Rohit Joshi**

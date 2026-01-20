@@ -1,7 +1,5 @@
 # Neon Cyber Login Form
 
-*Created by [Aigars Silkalns](https://github.com/puikinsh/) for [Colorlib](https://colorlib.com)*
-
 A cutting-edge cyberpunk login form showcasing 2025's neon gaming aesthetics with terminal interfaces, matrix effects, and futuristic design elements perfect for gaming platforms and cyberpunk applications.
 
 ## Features
@@ -176,6 +174,3 @@ Optimized for modern browsers with advanced CSS support for maximum neon impact.
 - **Memory Conscious**: Cyber effects designed for gaming performance
 - **Battery Friendly**: Optimized for gaming laptops and mobile devices
 
-## Credits
-
-Created by [Aigars Silkalns](https://github.com/puikinsh/) for [Colorlib](https://colorlib.com).

@@ -174,3 +174,5 @@ Optimized for modern browsers with advanced CSS support for maximum neon impact.
 - **Memory Conscious**: Cyber effects designed for gaming performance
 - **Battery Friendly**: Optimized for gaming laptops and mobile devices
 
+
+**Author : Rohit Joshi**
